@@ -5,7 +5,10 @@
 
 Create a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
-##Screenshot of Website
+# Screenshot of Website
+
+![image](https://user-images.githubusercontent.com/100049940/158391604-05852eef-1e16-47d4-a4c3-73a073b17853.png)
+
 
 
 # Final link
